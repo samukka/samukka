@@ -5,7 +5,7 @@
 
 ## About me
 
-Hello there! My name is Samuel Schneider, you can call me Schneider, i'm a brazillian web developer.
+Hello there! My name is Samuel Schneider, but you can call me Schneider, i'm a brazillian web developer.
 I startet learning programming with PHP and Java, but I've migrated to Advpl(a Totvs FrameWork language) and JavaScript, this last one I fell in love with it :heart:
 
 Now i'm focused on the "NodeJS + React + React Native + Next" stack, because it proved to be very powerful and efficient!
@@ -46,7 +46,6 @@ Now i'm focused on the "NodeJS + React + React Native + Next" stack, because it 
 ![Badge](https://img.shields.io/static/v1?label=&message=Jest&color=96737D&logo=jest&style=flat-square)
 
 #### Others
-![Badge](https://img.shields.io/static/v1?label=&message=Docker&color=fff&logo=docker&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=Bower&color=fff&logo=bower&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=NPM&color=fff&logo=npm&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=Yarn&color=fff&logo=yarn&style=flat-square)
