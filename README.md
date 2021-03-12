@@ -17,7 +17,6 @@ Now i'm focused on the "NodeJS + React + React Native + Next" stack, because it 
 ![Badge](https://img.shields.io/static/v1?label=&message=JavaScript&color=grey&logo=javascript&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=TypeScript&color=fff&logo=typescript&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=Java&color=8C2227&logo=java&style=flat-square)
-![Badge](https://img.shields.io/static/v1?label=&message=C%23&color=642076&logo=c%20sharp&style=flat-square)
 
 #### Web
 ![Badge](https://img.shields.io/static/v1?label=&message=HTML5&color=F16849&logo=html5&style=flat-square)
@@ -40,7 +39,7 @@ Now i'm focused on the "NodeJS + React + React Native + Next" stack, because it 
 ![Badge](https://img.shields.io/static/v1?label=&message=SQL%20Server&color=CC2927&logo=microsoft%20sql%20server&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=SQLite&color=4BA3D7&logo=sqlite&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=&message=MongoDB&color=F7F7F7&logo=mongodb&style=flat-square)
-![Badge](https://img.shields.io/static/v1?label=&message=CouchDB&color=EA2328&logo=couchbase&style=flat-square)
+
 
 #### Testing
 ![Badge](https://img.shields.io/static/v1?label=&message=Jest&color=96737D&logo=jest&style=flat-square)
